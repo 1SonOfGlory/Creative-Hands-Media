@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "freehandscreativemultimedia.com"
+        }
+      ],
+      "destination": "https://www.freehandscreativemultimedia.com/$1",
+      "permanent": true
+    }
+  ]
+}
